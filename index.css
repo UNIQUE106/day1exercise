@@ -1,0 +1,38 @@
+
+/* border-bottom color: rgba(0, 0, 0, 0.147) */
+
+* {
+    margin: 0px;
+}
+
+header{
+    background-color: #FFC244FF ;
+    padding: 50px;
+    border-bottom: 12px solid greenyellow;
+    display: flex ;
+    justify-content: space-between;
+    align-items: center;
+}
+
+*{
+    margin: 0px;
+}
+
+button{
+    background-color: plum;
+    border-radius: 10px;
+    padding: 5px;
+    color: black;
+    padding: 10px 20px;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: peru ;
+
+}
+
+img{
+    width: 150px;
+    height: 200;
+}
